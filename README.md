@@ -1,5 +1,5 @@
 # Network-Hacking-
-This repository contains topics I learnt about network hacking :
+This repository contains walkthrough showcasing my knowledge on network hacking :
 1. Packet Sniffing
 2. Deauthetication Attacks
 3. WEP, WPA/WPA2 cracking
